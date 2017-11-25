@@ -3,12 +3,12 @@
 #### Videos
 
 
-[!["Einstein Analytics Overview Demo"](https://img.youtube.com/vi/R07CtsAmrd0/0.jpg)](https://www.youtube.com/watch?v=R07CtsAmrd0 "Einstein Analytics Overview Demo")
-[!["Einstein Analytics Intro Demo"](https://img.youtube.com/vi/qqhlueaTyWQlR07CtsAmrd0/0.jpg)](https://www.youtube.com/watch?v=qqhlueaTyWQl "Einstein Analytics Intro Demo")
+- [!["Einstein Analytics Overview Demo"](https://img.youtube.com/vi/R07CtsAmrd0/0.jpg)](https://www.youtube.com/watch?v=R07CtsAmrd0 "Einstein Analytics Overview Demo")
+- [!["Einstein Analytics Intro Demo"](https://img.youtube.com/vi/qqhlueaTyWQl/0.jpg)](https://www.youtube.com/watch?v=qqhlueaTyWQl "Einstein Analytics Intro Demo")
+- [!["Einstein Analytics Setting up Apps"](https://img.youtube.com/vi/49-buxIS3Tw/0.jpg)](https://www.youtube.com/watch?v=49-buxIS3Tw"Einstein Analytics Setting up Apps")
+-
 
 
-
- [!["Einstein Analytics Intro"](https://img.youtube.com/vi/qqhlueaTyWQl/0.jpg)](https://www.youtube.com/watch?v=qqhlueaTyWQl "Einstein Analytics Intro")
 - [Einstein Analytics - Setting up Apps](https://www.youtube.com/watch?v=49-buxIS3Tw)
 - [Einstein Analytics - Smart Data Prep](https://www.youtube.com/watch?v=QPoWsrhOrpQ)
 - [Einstein Analytics - Discovery](https://www.youtube.com/watch?v=Ev895wkofX4)
