@@ -4,6 +4,8 @@
 
 
 [!["Einstein Analytics Overview Demo"](https://img.youtube.com/vi/R07CtsAmrd0/0.jpg)](https://www.youtube.com/watch?v=R07CtsAmrd0 "Einstein Analytics Overview Demo")
+[!["Einstein Analytics Intro Demo"](https://img.youtube.com/vi/qqhlueaTyWQlR07CtsAmrd0/0.jpg)](https://www.youtube.com/watch?v=qqhlueaTyWQl "Einstein Analytics Intro Demo")
+
 
 
  [!["Einstein Analytics Intro"](https://img.youtube.com/vi/qqhlueaTyWQl/0.jpg)](https://www.youtube.com/watch?v=qqhlueaTyWQl "Einstein Analytics Intro")
