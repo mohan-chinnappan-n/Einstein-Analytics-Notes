@@ -6,10 +6,20 @@
 - [!["Overview Demo"](https://img.youtube.com/vi/R07CtsAmrd0/0.jpg)](https://www.youtube.com/watch?v=R07CtsAmrd0 "Overview Demo")
 ##### Intro Demo
 - [!["Intro Demo"](https://img.youtube.com/vi/qqhlueaTyWQ/0.jpg)](https://www.youtube.com/watch?v=qqhlueaTyWQ "Intro Demo")
+##### Setting up Apps
+
 - [!["Setting up Apps"](https://img.youtube.com/vi/49-buxIS3Tw/0.jpg)](https://www.youtube.com/watch?v=49-buxIS3Tw "Setting up Apps")
+
+##### Smart Data Prep"
 - [!["Smart Data Prep"](https://img.youtube.com/vi/QPoWsrhOrpQ/0.jpg)](https://www.youtube.com/watch?v=QPoWsrhOrpQ "Smart Data Prep")
+
+##### Discovery
 - [!["Discovery"](https://img.youtube.com/vi/kNEoNAKlOls/0.jpg)](https://www.youtube.com/watch?v=Ev895wkofX4 "Discovery")
+
+##### Natural Language Query
 - [!["Natural Language Query"](https://img.youtube.com/vi/kNEoNAKlOls/0.jpg)](https://www.youtube.com/watch?v=kNEoNAKlOls "Natural Language Query")
+
+###### Event Monitoring App and creating custom apps
 - [!["Event Monitoring App and creating custom apps"](https://img.youtube.com/vi/TWpGVzspk0s/0.jpg)](https://www.youtube.com/watch?v=TWpGVzspk0s "Einstein Analytics - Event Monitoring App & Creating Custom Apps")
 
 
