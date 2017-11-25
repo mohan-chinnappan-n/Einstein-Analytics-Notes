@@ -17,7 +17,6 @@
 
 ##### Discovery
 - [!["Discovery"](https://img.youtube.com/vi/kNEoNAKlOls/0.jpg)](https://www.youtube.com/watch?v=Ev895wkofX4 "Discovery")
-w the Einstein Analytics Dashboard Widgets
 
 ##### Natural Language Query
 - [!["Natural Language Query"](https://img.youtube.com/vi/kNEoNAKlOls/0.jpg)](https://www.youtube.com/watch?v=kNEoNAKlOls "Natural Language Query")
