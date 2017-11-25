@@ -2,6 +2,10 @@
 
 #### Videos
 
+
+[!["Einstein Analytics Overview Demo"](https://img.youtube.com/vi/R07CtsAmrd0/0.jpg)](https://www.youtube.com/watch?v=R07CtsAmrd0 "Einstein Analytics Overview Dem")
+
+
 - [Einstein Analytics Overview Demo](https://www.youtube.com/watch?v=R07CtsAmrd0)
 - [Einstein Analytics Intro ](https://www.youtube.com/watch?v=qqhlueaTyWQl)
 - [Einstein Analytics - Setting up Apps](https://www.youtube.com/watch?v=49-buxIS3Tw)
