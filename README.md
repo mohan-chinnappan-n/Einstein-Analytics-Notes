@@ -31,13 +31,13 @@ w the Einstein Analytics Dashboard Widgets
 
 ####  Dashboards
 ##### Make Einstein Analytics Dashboards Interactive
-- [!["[Make Einstein Analytics Dashboards Interactive"](https://img.youtube.com/vi/MAvOSYs8YC8/0.jpg)](https://www.youtube.com/watch?v=MAvOSYs8YC8 "[Make Einstein Analytics Dashboards Interactive")
+- [!["[Make Einstein Analytics Dashboards Interactive"](https://img.youtube.com/vi/MAvOSYs8YC8/0.jpg)](https://www.youtube.com/watch?v=MAvOSYs8YC8 "Make Einstein Analytics Dashboards Interactive")
 
 ##### Quickly Create Einstein Analytics Dashboards with Templates
 - [!["Quickly Create Einstein Analytics Dashboards with Templates"](https://img.youtube.com/vi/Yv97TFhwF60/0.jpg)](https://www.youtube.com/watch?v=Yv97TFhwF60 "Quickly Create Einstein Analytics Dashboards with Template")
 
 ##### Get to Know the Einstein Analytics Dashboard Widgets
-- [!["[Get to Know the Einstein Analytics Dashboard Widgets"](https://img.youtube.com/vi/_CKlsYUva5w/0.jpg)](https://www.youtube.com/watch?v=_CKlsYUva5w "Get to Know the Einstein Analytics Dashboard Widgets")
+- [!["Get to Know the Einstein Analytics Dashboard Widgets"](https://img.youtube.com/vi/_CKlsYUva5w/0.jpg)](https://www.youtube.com/watch?v=_CKlsYUva5w "Get to Know the Einstein Analytics Dashboard Widgets")
 
 
 
