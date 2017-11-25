@@ -9,13 +9,10 @@
 - [!["Smart Data Prep"](https://img.youtube.com/vi/QPoWsrhOrpQ/0.jpg)](https://www.youtube.com/watch?v=QPoWsrhOrpQ "Smart Data Prep")
 - [!["Discovery"](https://img.youtube.com/vi/kNEoNAKlOls/0.jpg)](https://www.youtube.com/watch?v=Ev895wkofX4 "Discovery")
 - [!["Natural Language Query"](https://img.youtube.com/vi/kNEoNAKlOls/0.jpg)](https://www.youtube.com/watch?v=kNEoNAKlOls "Natural Language Query")
+- [!["Event Monitoring App and creating custom apps"](https://img.youtube.com/vi/TWpGVzspk0s/0.jpg)](https://www.youtube.com/watch?v=TWpGVzspk0s "Einstein Analytics - Event Monitoring App & Creating Custom Apps")
 
 
 
-
-- [Einstein Analytics - Discovery](https://www.youtube.com/watch?v=Ev895wkofX4)
-- [Einstein Analytics - Natural Language Query](https://www.youtube.com/watch?v=kNEoNAKlOls)
-- [Einstein Analytics - Event Monitoring App & Creating Custom Apps](https://www.youtube.com/watch?v=TWpGVzspk0s)
 
 
 ####  Dashboards
